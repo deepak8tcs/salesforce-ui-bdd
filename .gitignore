@@ -1,0 +1,23 @@
+#compiled class file
+*.class
+
+#Log file
+*.log
+
+#package files
+*.jar
+*.war
+*.zip
+*.rar
+
+#folders
+
+target/
+test-output/
+
+#additional files and folders
+
+*.classpath
+*.settings
+*.project
+**/target
